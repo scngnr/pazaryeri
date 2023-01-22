@@ -1,7 +1,6 @@
 {
     "name": "scngnr/pazaryeri",
     "description": "Pazaryeri Siniflari, Ürün Ekleme Ve Günlleme islerini yürütecek sinif",
-    "type": "composer-plugin",
     "license": "MIT",
     "autoload": {
         "psr-4": {
